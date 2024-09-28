@@ -1,0 +1,100 @@
+div:first-child {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 50px;
+}
+div:first-child h1{
+    color: white;
+}
+
+div:nth-child(2) {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 50px;  
+}
+div:nth-child(2) h1{
+    color: black;
+}
+
+div:nth-child(3) {
+    width: 200px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 50px;
+}
+div:nth-child(3) h1{
+    color: blue;
+}
+
+div:nth-child(4) {
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 50px;
+}
+div:nth-child(4) h1{
+    color: blue;
+}
+
+div:nth-child(5) {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(240, 192, 17);
+    margin: 50px;
+}
+div:nth-child(5) h1{
+    color: rgb(38, 39, 32);
+}
+
+div:nth-child(6) {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(234, 15, 15);
+    margin: 50px;
+}
+div:nth-child(6) h1{
+    color: rgb(242, 137, 8);
+}
+
+div:nth-child(7) {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(9, 234, 73);
+    margin: 50px;
+}
+div:nth-child(7) h1{
+    color: rgb(248, 7, 7);
+}
+
+div:nth-child(8) {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(128, 250, 6);
+    margin: 50px;
+}
+div:nth-child(8) h1{
+    color: rgb(244, 141, 7);
+}
+
+div:nth-child(9) {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(250, 5, 5);
+    margin: 50px;
+}
+div:nth-child(9) h1{
+    color: rgb(5, 250, 9);
+}
+
+div:last-child {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(248, 2, 2);
+    margin: 50px;
+}
+div:last-child h1{
+    color: rgb(240, 217, 4);
+}
+
